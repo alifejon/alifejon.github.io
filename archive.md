@@ -1,10 +1,10 @@
 ---
-bg: "golly.png"
+bg: "ParticleSwarmArrowsAnimation.gif"
 layout: page
 permalink: /posts/
 title: "Archive"
 crawlertitle: "All articles"
-summary: "Posts about jekyll"
+summary: "particle swarm optimization (PSO)"
 active: archive
 ---
 
