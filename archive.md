@@ -1,5 +1,5 @@
 ---
-bg: "Turing_Machine_in_Golly.png"
+bg: "golly.png"
 layout: page
 permalink: /posts/
 title: "Archive"
