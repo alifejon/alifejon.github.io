@@ -1,16 +1,22 @@
-<!doctype>
-<html>
-  <head>
-    <title></title>
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<script>
-  (adsbygoogle = window.adsbygoogle || []).push({
-    google_ad_client: "ca-pub-9720191679066801",
-    enable_page_level_ads: true
-  });
-</script>
-  </head>
+---
+layout: compress
+---
+<!DOCTYPE html>
+<html lang="{{ site.lang }}">
+
+  {% include head.html %}
+
   <body>
-    {{ content }}
+    <div id="shadow"></div>
+
+      {% include header.html %}
+      {% include aside.html %}
+
+    <main class="content-wrapper">
+      {{ content }}
+    </main>
+
+    {% include footer.html %}
+
   </body>
 </html>
