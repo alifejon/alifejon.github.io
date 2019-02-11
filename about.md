@@ -1,5 +1,5 @@
 ---
-bg: "owl.jpg"
+bg: "Trefoil_knot_conways_game_of_life.gif"
 layout: page
 title: "About"
 crawlertitle: "Why and how this blog was created"
